@@ -4,7 +4,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def home():
-    return "CI/CD Deployement successful built-7"
+    return "CI/CD Deployement successful built-8"
 
 
 if __name__ == "__main__":
